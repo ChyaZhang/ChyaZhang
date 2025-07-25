@@ -1,6 +1,6 @@
 ## Hi there 👋 This is **Chengyang Zhang**
 
-👨‍🎓 I am a Phd student at Sichuan University. 👉 [Homepage](https://chyazhang.github.io/), [Scholar]([https://scholar.google.com/citations?hl=zh-CN&user=y1myk_IAAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com.hk/citations?user=v5hefysAAAAJ&hl=zh-CN))
+👨‍🎓 I am a Phd student at Sichuan University. 👉 [Homepage](https://chyazhang.github.io/), [Scholar](https://scholar.google.com.hk/citations?user=v5hefysAAAAJ&hl=zh-CN)
 
 📫 How to reach me: Cy_Zhang0705@163.com
 
