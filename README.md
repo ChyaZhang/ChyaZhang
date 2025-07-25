@@ -4,7 +4,7 @@
 
 📫 How to reach me: Cy_Zhang0705@163.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boom5426&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChyaZhang&show_icons=true&theme=radical)
 
 
 <!--
